@@ -14,7 +14,7 @@ Build an image of a sample spring boot app with [jib](https://github.com/GoogleC
 Go to http://localhost:8080/test
 
 ## TODO
-[ ] Test custom entrypoint
-[ ] Build without pushing image ?
-[ ] Run in kubernetes
+- [ ] Test custom entrypoint
+- [ ] Build without pushing image ?
+- [ ] Run in kubernetes
 
